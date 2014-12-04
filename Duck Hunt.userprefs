@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\flight.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\falling.cs">
     <Files>
       <File FileName="Assets\StaticVars.cs" Line="5" Column="34" />
       <File FileName="Assets\Scripts\flight.cs" Line="9" Column="3" />
+      <File FileName="Assets\falling.cs" Line="7" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
